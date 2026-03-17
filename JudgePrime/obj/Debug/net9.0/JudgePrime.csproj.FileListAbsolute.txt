@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\bin\Debug\net9.0\JudgePrime.exe
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\bin\Debug\net9.0\JudgePrime.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\bin\Debug\net9.0\JudgePrime.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\bin\Debug\net9.0\JudgePrime.dll
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\bin\Debug\net9.0\JudgePrime.pdb
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.dll
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\refint\JudgePrime.dll
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.pdb
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\JudgePrime.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\JudgePrime\obj\Debug\net9.0\ref\JudgePrime.dll

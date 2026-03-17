@@ -43,8 +43,8 @@ class Program
         while (true) {
             Console.Write(s);
 
-            string s_num = Console.ReadLine();
-            if (uint.TryParse(s_num, out num))
+            string? s_num = Console.ReadLine();
+            if (s_num != null && uint.TryParse(s_num, out num))
             {
                 break;
             }
