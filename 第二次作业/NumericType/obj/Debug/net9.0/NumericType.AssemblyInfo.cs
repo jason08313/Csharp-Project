@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("JudgePrime")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("NumericType")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc37fbb6cc0e3274c6b82c6ae0f67545aaa7bc14")]
-[assembly: System.Reflection.AssemblyProductAttribute("JudgePrime")]
-[assembly: System.Reflection.AssemblyTitleAttribute("JudgePrime")]
+[assembly: System.Reflection.AssemblyProductAttribute("NumericType")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NumericType")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

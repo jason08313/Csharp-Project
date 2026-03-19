@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第二次作业\\NumericType\\NumericType.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第二次作业\\NumericType\\NumericType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj",
-        "projectName": "JudgePrime",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第二次作业\\NumericType\\NumericType.csproj",
+        "projectName": "NumericType",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第二次作业\\NumericType\\NumericType.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第二次作业\\NumericType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Try\\Try.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Try\\Try.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj",
-        "projectName": "JudgePrime",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\JudgePrime.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Try\\Try.csproj",
+        "projectName": "Try",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Try\\Try.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\JudgePrime\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Try\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

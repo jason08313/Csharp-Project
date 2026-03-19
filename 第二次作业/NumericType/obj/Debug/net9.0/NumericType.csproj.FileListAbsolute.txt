@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Debug\net9.0\NumericType.exe
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Debug\net9.0\NumericType.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Debug\net9.0\NumericType.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Debug\net9.0\NumericType.dll
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Debug\net9.0\NumericType.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.sourcelink.json
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.dll
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\refint\NumericType.dll
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\NumericType.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\obj\Debug\net9.0\ref\NumericType.dll
