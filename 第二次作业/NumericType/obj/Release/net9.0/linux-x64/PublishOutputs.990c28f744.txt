@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Release\net9.0\linux-x64\publish\NumericType.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第二次作业\NumericType\bin\Release\net9.0\linux-x64\publish\NumericType
