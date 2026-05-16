@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\bin\Debug\net9.0\Reflect.exe
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\bin\Debug\net9.0\Reflect.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\bin\Debug\net9.0\Reflect.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\bin\Debug\net9.0\Reflect.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\bin\Debug\net9.0\Reflect.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.sourcelink.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\refint\Reflect.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\Reflect.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\Reflect\obj\Debug\net9.0\ref\Reflect.dll
