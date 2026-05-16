@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\bin\Debug\net9.0\order_management.exe
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\bin\Debug\net9.0\order_management.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\bin\Debug\net9.0\order_management.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\bin\Debug\net9.0\order_management.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\bin\Debug\net9.0\order_management.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.sourcelink.json
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\refint\order_management.dll
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\order_management.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\第四次作业\order_management\obj\Debug\net9.0\ref\order_management.dll

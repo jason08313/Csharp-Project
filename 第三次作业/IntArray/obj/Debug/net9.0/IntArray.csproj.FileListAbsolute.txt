@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\bin\Debug\net9.0\IntArray.exe
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\bin\Debug\net9.0\IntArray.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\bin\Debug\net9.0\IntArray.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\bin\Debug\net9.0\IntArray.dll
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\bin\Debug\net9.0\IntArray.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.sourcelink.json
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.dll
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\refint\IntArray.dll
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\IntArray.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\第三次作业\IntArray\obj\Debug\net9.0\ref\IntArray.dll

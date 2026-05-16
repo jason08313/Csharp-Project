@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\Helloworld\\Helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Helloworld\\Helloworld.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\Helloworld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\Helloworld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Helloworld\\Helloworld.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\Helloworld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第一次作业\\Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

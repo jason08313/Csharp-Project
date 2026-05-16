@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JudgePrime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07eb7b80a5205c7b2a25d0913499a24215025ad3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1057f859ed6ab8d5123c5823af9f336d9396aa98")]
 [assembly: System.Reflection.AssemblyProductAttribute("JudgePrime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JudgePrime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
