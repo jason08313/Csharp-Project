@@ -138,13 +138,6 @@ namespace OrderManagement.Services
         // ========== 新增：XML 导出/导入 ==========
         public void Export(string filePath)
         {
-            // 添加这行代码：创建文件所在目录
-            string directory = Path.GetDirectoryName(filePath);
-            if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
-            {
-                Directory.CreateDirectory(directory);
-            }
-            
             var settings = new XmlWriterSettings { Indent = true };
             using var writer = XmlWriter.Create(filePath, settings);
             var serializer = new XmlSerializer(typeof(List<Order>));
