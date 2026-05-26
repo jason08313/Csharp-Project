@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderId>1</OrderId>
+    <Customer>
+      <CustomerId>1</CustomerId>
+      <Name>bobo</Name>
+    </Customer>
+    <Details>
+      <OrderDetails>
+        <Product>
+          <ProductId>P001</ProductId>
+          <ProductNumber>1</ProductNumber>
+          <Name>笔记本电脑</Name>
+          <Price>5999</Price>
+        </Product>
+        <Quantity>1</Quantity>
+        <UnitPrice>5999</UnitPrice>
+      </OrderDetails>
+    </Details>
+    <OrderDate>2026-05-26T11:05:00.2348518-07:00</OrderDate>
+  </Order>
+</ArrayOfOrder>

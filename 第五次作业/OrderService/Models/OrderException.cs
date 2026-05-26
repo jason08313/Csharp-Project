@@ -1,9 +1,8 @@
-using System;
+namespace OrderManagement;
 
-namespace OrderManagement.Models
+public class OrderException : ApplicationException
 {
-    public class OrderException : ApplicationException
+    public OrderException(string message) : base(message)
     {
-        public OrderException(string message) : base(message) { }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\bin\Debug\net9.0-windows\FileMergeWinForms.exe
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\bin\Debug\net9.0-windows\FileMergeWinForms.deps.json
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\bin\Debug\net9.0-windows\FileMergeWinForms.runtimeconfig.json
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\bin\Debug\net9.0-windows\FileMergeWinForms.dll
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\bin\Debug\net9.0-windows\FileMergeWinForms.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.sourcelink.json
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.dll
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\refint\FileMergeWinForms.dll
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.pdb
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\FileMergeWinForms.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\CsharpWork\第五次作业\FileMergeWinForms\obj\Debug\net9.0-windows\ref\FileMergeWinForms.dll
