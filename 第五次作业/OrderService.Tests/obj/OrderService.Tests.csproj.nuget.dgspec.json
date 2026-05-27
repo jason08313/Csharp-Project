@@ -14,13 +14,16 @@
         "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第五次作业\\OrderService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第五次作业\\NuGet.Config",
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
@@ -76,13 +79,16 @@
         "outputPath": "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第五次作业\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\Desktop\\CsharpWork\\第五次作业\\NuGet.Config",
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
